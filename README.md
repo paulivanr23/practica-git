@@ -1,3 +1,3 @@
 ## PRACTICA DE GIT
 
-Repositorio de practica para cofigurar y aprender a usar git.
+Practica en la cual se creó una rama llamada development y vamos a subir los cambios.
